@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int main() {
+int CHOWmain() {
 
     int in = 1;
     int sum;
