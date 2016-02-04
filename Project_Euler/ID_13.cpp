@@ -12,11 +12,11 @@ using namespace std;
 int main() {
 
 	string largeNumb;
-	int digit;
-	int outdig;
+	long digit;
+	long outdig;
 	long sum;
-	int cintotal;
-	int goTill;
+	long cintotal;
+	long goTill;
 
 	cout << "Please tell me how many line of numbers are you going to input?" << endl;
 	cin >> goTill;
