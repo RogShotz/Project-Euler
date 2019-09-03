@@ -1,5 +1,4 @@
 # Project_Euler
-For ProjectEuler.net
+Java and C++ Solutions for https://projecteuler.net/
 
-I don't care what you do with the code, as long as you:
-Don't claim it as your own.
+This is mainly for self logging however feel free to use this to help you and maybe mention me if I helped you :)
