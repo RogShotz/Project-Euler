@@ -3,6 +3,8 @@
 *.dll
 *.d
 *.o
+*.iml
+/out/
 
 .cproject
 .project
