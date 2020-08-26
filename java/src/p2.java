@@ -7,9 +7,9 @@ public class p2 {
         int number = 4000000;
 
         while (i < number) {
-            if (i % 2 == 0) {
+            if (i % 2 == 0) 
                 sum += i;
-            }
+            
             fib2 = fib1;
             fib1 = i;
             i = fib1 + fib2;
