@@ -55,7 +55,6 @@ for y in range(adj_numbers - 1, len(td_array)):  # y is size of column - how man
         product = 1
         for n in range(adj_numbers):
             product *= td_array[x + n][y - n]
-            print(x + n, y - n)
 
         if greatestprod < product:
             greatestprod = product
