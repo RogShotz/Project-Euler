@@ -1,5 +1,5 @@
 def popstring():  # populate string
-    f = open("p8/unparsednumber.txt", "r")
+    f = open("p008/unparsednumber.txt", "r")
 
     lines = f.readlines()
     for line in lines:

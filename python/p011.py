@@ -3,7 +3,7 @@ adj_numbers = 4
 
 
 def popstring():  # populate string
-    f = open("p11/numbergrid.txt", "r")
+    f = open("p011/numbergrid.txt", "r")
 
     lines = f.readlines()
     for line in lines:
